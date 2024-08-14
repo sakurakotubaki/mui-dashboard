@@ -15,8 +15,6 @@ const Root = styled('div')({
   minHeight: '100vh',
 });
 
-
-
 const SidebarContainer = styled('div')({
   display: 'flex',
 });
